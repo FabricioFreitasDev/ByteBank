@@ -1,0 +1,6 @@
+public class conta1 {
+	double saldo;
+	int agencia;
+	int numero;
+	String titular;
+}

@@ -1,0 +1,9 @@
+
+public class TestaMetodo {
+	public static void main(String[] args) {
+		Conta contaCliente = new Conta();
+		contaCliente.saldo = 100;
+		contaCliente.deposita(50);
+	}
+
+}
